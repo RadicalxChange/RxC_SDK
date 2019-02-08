@@ -1,5 +1,5 @@
 # RxC_SDK
-A set of reference libraries for implementing RadicalMarket concepts.  These libraries serve as a shared knowledge base for aggregating real-world feedback on how these mechanisms function in practice.  Each of these libraries will be configurable to express a wide range of implementation options. This library will start with a set of smart generic contracts that follow common Ethereum standards and grow to cover UI implementations. 
+A set of reference libraries for implementing RadicalMarket concepts.  These libraries serve as a shared knowledge base for aggregating real-world feedback on how these mechanisms function in practice.  Each of these libraries will be configurable to express a wide range of implementation options. This library will start with a set of generic smart contracts that follow common Ethereum standards and grow to cover UI implementations. 
 
 Our goal is for this repository to serve as a Schelling point for:
 - Technical guide for RxC mechanisms and best practices
